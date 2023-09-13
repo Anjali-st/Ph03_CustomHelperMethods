@@ -1,0 +1,14 @@
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..AssemblyInfoInputs.cache
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..AssemblyInfo.cs
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..csproj.CoreCompileInputs.cache
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..MvcApplicationPartsAssemblyInfo.cache
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..RazorAssemblyInfo.cache
+D:\Angular Self paced\Phase 02\Assisted Projects\Assisted Projects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..RazorAssemblyInfo.cs
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..AssemblyInfoInputs.cache
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..AssemblyInfo.cs
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..csproj.CoreCompileInputs.cache
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..MvcApplicationPartsAssemblyInfo.cache
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..RazorAssemblyInfo.cache
+D:\DotNet\Ph_03AssistedProjects\Custom\Phase3Section2\Phase3Section2\obj\Debug\net6.0\Phase3Section2..RazorAssemblyInfo.cs
